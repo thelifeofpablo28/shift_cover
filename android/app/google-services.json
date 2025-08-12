@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "778867565516",
+    "project_id": "cover-app-16a88",
+    "storage_bucket": "cover-app-16a88.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778867565516:android:e0508d836f461d46ea7369",
+        "android_client_info": {
+          "package_name": "com.isaac.shiftCover"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "778867565516-9eprjmcof5bmpqnu0fo0elnuo41kdvu9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmS31VeIPSYswJRg0uEz_ShHmovpzKFR8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "778867565516-9eprjmcof5bmpqnu0fo0elnuo41kdvu9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "778867565516-g3dr6ua6qq4s0vvkkl8uil9994ntbi6k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.isaac.shiftCover"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

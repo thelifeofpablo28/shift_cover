@@ -8,7 +8,7 @@
 PRODUCT_NAME = shift_cover
 
 // The application's bundle identifier
-PRODUCT_BUNDLE_IDENTIFIER = com.example.shiftCover
+PRODUCT_BUNDLE_IDENTIFIER = com.isaac.shiftCover
 
 // The copyright displayed in application information
-PRODUCT_COPYRIGHT = Copyright © 2025 com.example. All rights reserved.
+PRODUCT_COPYRIGHT = Copyright © 2025 com.isaac. All rights reserved.
