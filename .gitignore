@@ -1,0 +1,50 @@
+# Flutter/Dart/Pub
+.dart_tool/
+.packages
+.pub/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.flutter-version
+
+# Android
+android/.gradle/
+android/app/build/
+**/android/gradle/
+android/local.properties
+
+# iOS
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/Generated.xcconfig
+ios/Flutter/ephemeral/
+ios/Flutter/App.framework
+ios/ServiceDefinitions.json
+ios/Runner.xcworkspace/
+ios/Runner.xcodeproj/project.xcworkspace/
+ios/Runner/GeneratedPluginRegistrant.*
+
+# macOS
+macos/Flutter/ephemeral/
+macos/Flutter/Flutter.framework
+macos/Flutter/Flutter.podspec
+macos/Flutter/App.framework
+
+# IntelliJ/IDEA
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Firebase debug logs
+firebase-debug.log
+firestore-debug.log
+
+# Misc
+*.DS_Store
